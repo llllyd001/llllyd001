@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi, I'm Mingqing 👋
 
-<!--
-**llllyd001/llllyd001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Computer Science undergraduate at the University of Michigan, where I transferred from Shanghai Jiao Tong University after studying Electrical and Computer Engineering.
 
-Here are some ideas to get you started:
+My research interests include computer systems, distributed systems, and data systems, with a focus on efficient and scalable computing.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+
+- [**ECE4721J-Methods-and-Tools-for-Big-Data**](https://github.com/llllyd001/ECE4721J-Methods-and-Tools-for-Big-Data) — A distributed data systems project built on the Million Song Dataset using large-scale data processing tools.
+- [**From-scratch_Name_Disambiguation**](https://github.com/llllyd001/From-scratch_Name_Disambiguation) — A research project on scholarly author name disambiguation using clustering and LLM-based approaches.
+
+## Contact
+
+```
+lydialin [at] umich [dot] edu
+```
